@@ -1,7 +1,7 @@
 
 
 <!--
-**HARISRUJAN/HARISRUJAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://github.com/Dhamareshwarakumar/Dhamareshwarakumar/blob/main/code.gif?raw=true" width="400" height="260" />
 
 ## Talking about Personal Stuffs:
-- 🔭 I’m currently  a student at Madanapalle Institute of Technology.
-- 🌱 I’m currently a Department co-ordinator for Mits Social Responsibility Club.
-- 👯 I’m looking to collaborate on Data Science & Web Development.
-- 🤔 I’m looking for help for an Internship.
+- 🔭 I graduated from Tampere University,Finland in **Masters in Data Science**.
+- 🌱 I’m was a Department co-ordinator for Mits Social Responsibility Club.
+- 👯 I’m looking to collaborate on Data Science & Gen AI.
+- 🤔 I’m looking for collaboration in Gen AI and Data Science Projects.
 - 📫 How to reach me: <a href="mailto:raane090401@gmail.com">raane090401@gmail.com</a>
 - 🟦  <a href="https://www.linkedin.com/in/Raane9401/">LINKEDIN</a>
 <!-- - 📝[Resume](link-here) -->
